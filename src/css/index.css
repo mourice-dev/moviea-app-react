@@ -1,0 +1,9 @@
+/**
+ * You can add any global resets or utility classes here
+ *
+ * @format
+ */
+
+* {
+  box-sizing: border-box;
+}
